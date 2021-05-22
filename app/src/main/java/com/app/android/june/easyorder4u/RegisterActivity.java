@@ -1,4 +1,4 @@
-package com.app.android.june.easyorder4u;
+package com.app.android.june.linhrestaurant;
 
 import android.app.ProgressDialog;
 import android.content.DialogInterface;
@@ -18,7 +18,7 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.app.android.june.easyorder4u.helpers.Users;
+import com.app.android.june.linhrestaurant.helpers.Users;
 import com.google.android.gms.tasks.Continuation;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.OnFailureListener;
@@ -250,13 +250,13 @@ public class RegisterActivity extends AppCompatActivity {
 
     }
     public void privacy(View view) {
-        String url = "https://easyorder4u.com/privacypolicy.html";
+        String url = "https://intelligence.im/privacypolicy.html";
         Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(url));
         startActivity(intent);
     }
 
     public void terms(View view) {
-        String url = "https://easyorder4u.com/termsofservice.html";
+        String url = "https://intelligence.im/termsofservice.html";
         Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(url));
         startActivity(intent);
     }

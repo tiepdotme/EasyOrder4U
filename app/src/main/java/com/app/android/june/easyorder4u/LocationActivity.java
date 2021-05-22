@@ -1,4 +1,4 @@
-package com.app.android.june.easyorder4u;
+package com.app.android.june.linhrestaurant;
 
 import android.Manifest;
 import androidx.annotation.NonNull;

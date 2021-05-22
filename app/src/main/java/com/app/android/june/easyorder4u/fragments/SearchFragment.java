@@ -1,4 +1,4 @@
-package com.app.android.june.easyorder4u.fragments;
+package com.app.android.june.linhrestaurant.fragments;
 
 
 import android.os.Bundle;
@@ -9,7 +9,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.app.android.june.easyorder4u.R;
+import com.app.android.june.linhrestaurant.R;
 
 
 /**

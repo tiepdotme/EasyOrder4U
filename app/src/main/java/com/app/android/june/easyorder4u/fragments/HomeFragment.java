@@ -1,4 +1,4 @@
-package com.app.android.june.easyorder4u.fragments;
+package com.app.android.june.linhrestaurant.fragments;
 
 
 import android.content.DialogInterface;
@@ -20,13 +20,13 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.app.android.june.easyorder4u.MainActivity;
-import com.app.android.june.easyorder4u.R;
-import com.app.android.june.easyorder4u.ViewAllActivity;
-import com.app.android.june.easyorder4u.adapters.foodAdapter;
-import com.app.android.june.easyorder4u.adapters.nearmeAdapter;
-import com.app.android.june.easyorder4u.adapters.popularAdapter;
-import com.app.android.june.easyorder4u.helpers.Food;
+import com.app.android.june.linhrestaurant.MainActivity;
+import com.app.android.june.linhrestaurant.R;
+import com.app.android.june.linhrestaurant.ViewAllActivity;
+import com.app.android.june.linhrestaurant.adapters.foodAdapter;
+import com.app.android.june.linhrestaurant.adapters.nearmeAdapter;
+import com.app.android.june.linhrestaurant.adapters.popularAdapter;
+import com.app.android.june.linhrestaurant.helpers.Food;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.Task;

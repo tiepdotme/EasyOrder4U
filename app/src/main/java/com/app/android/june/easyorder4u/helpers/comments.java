@@ -1,4 +1,4 @@
-package com.app.android.june.easyorder4u.helpers;
+package com.app.android.june.linhrestaurant.helpers;
 
 public class comments {
 

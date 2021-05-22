@@ -1,4 +1,4 @@
-package com.app.android.june.easyorder4u.fragments;
+package com.app.android.june.linhrestaurant.fragments;
 
 
 import android.content.Intent;
@@ -19,10 +19,10 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.app.android.june.easyorder4u.EditProfileActivity;
-import com.app.android.june.easyorder4u.R;
-import com.app.android.june.easyorder4u.adapters.historyAdapter;
-import com.app.android.june.easyorder4u.helpers.Food;
+import com.app.android.june.linhrestaurant.EditProfileActivity;
+import com.app.android.june.linhrestaurant.R;
+import com.app.android.june.linhrestaurant.adapters.historyAdapter;
+import com.app.android.june.linhrestaurant.helpers.Food;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.Task;

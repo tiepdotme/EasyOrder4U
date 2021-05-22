@@ -1,4 +1,4 @@
-package com.app.android.june.easyorder4u;
+package com.app.android.june.linhrestaurant;
 
 import android.app.Service;
 import android.content.Context;

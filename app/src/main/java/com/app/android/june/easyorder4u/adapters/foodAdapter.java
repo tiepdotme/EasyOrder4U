@@ -1,4 +1,4 @@
-package com.app.android.june.easyorder4u.adapters;
+package com.app.android.june.linhrestaurant.adapters;
 
 import android.content.Context;
 import android.content.Intent;
@@ -14,9 +14,9 @@ import android.widget.Toast;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.app.android.june.easyorder4u.R;
-import com.app.android.june.easyorder4u.ViewFoodActivity;
-import com.app.android.june.easyorder4u.helpers.Food;
+import com.app.android.june.linhrestaurant.R;
+import com.app.android.june.linhrestaurant.ViewFoodActivity;
+import com.app.android.june.linhrestaurant.helpers.Food;
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.firebase.auth.FirebaseAuth;

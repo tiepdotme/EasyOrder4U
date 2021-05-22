@@ -1,4 +1,4 @@
-package com.app.android.june.easyorder4u.adapters;
+package com.app.android.june.linhrestaurant.adapters;
 
 import android.content.Context;
 import android.content.DialogInterface;
@@ -12,9 +12,9 @@ import android.widget.TextView;
 import androidx.appcompat.app.AlertDialog;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.app.android.june.easyorder4u.HfSubmitActivity;
-import com.app.android.june.easyorder4u.R;
-import com.app.android.june.easyorder4u.helpers.Shop;
+import com.app.android.june.linhrestaurant.HfSubmitActivity;
+import com.app.android.june.linhrestaurant.R;
+import com.app.android.june.linhrestaurant.helpers.Shop;
 import com.squareup.picasso.Picasso;
 
 import java.util.List;

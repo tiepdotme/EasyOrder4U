@@ -1,4 +1,4 @@
-package com.app.android.june.easyorder4u.adapters;
+package com.app.android.june.linhrestaurant.adapters;
 
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;

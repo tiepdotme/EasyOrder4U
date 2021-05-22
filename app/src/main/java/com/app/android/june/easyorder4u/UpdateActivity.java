@@ -1,4 +1,4 @@
-package com.app.android.june.easyorder4u;
+package com.app.android.june.linhrestaurant;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -25,7 +25,7 @@ public class UpdateActivity extends AppCompatActivity {
 
     public void updates(View view) {
         Intent intent = new Intent(Intent.ACTION_VIEW);
-        intent.setData(Uri.parse("market://details?id=com.app.android.june.easyorder4u"));
+        intent.setData(Uri.parse("market://details?id=com.app.android.june.linhrestaurant"));
         startActivity(intent);
     }
 

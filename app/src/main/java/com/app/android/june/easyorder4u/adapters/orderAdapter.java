@@ -1,4 +1,4 @@
-package com.app.android.june.easyorder4u.adapters;
+package com.app.android.june.linhrestaurant.adapters;
 
 import android.content.Context;
 import android.content.DialogInterface;
@@ -13,10 +13,10 @@ import androidx.appcompat.app.AlertDialog;
 import androidx.cardview.widget.CardView;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.app.android.june.easyorder4u.CusLocationActivity;
-import com.app.android.june.easyorder4u.R;
-import com.app.android.june.easyorder4u.ViewOrderActivity;
-import com.app.android.june.easyorder4u.helpers.Orders;
+import com.app.android.june.linhrestaurant.CusLocationActivity;
+import com.app.android.june.linhrestaurant.R;
+import com.app.android.june.linhrestaurant.ViewOrderActivity;
+import com.app.android.june.linhrestaurant.helpers.Orders;
 import com.squareup.picasso.Picasso;
 
 import java.text.DecimalFormat;

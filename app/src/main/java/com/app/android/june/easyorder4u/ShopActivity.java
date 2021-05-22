@@ -1,4 +1,4 @@
-package com.app.android.june.easyorder4u;
+package com.app.android.june.linhrestaurant;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -10,8 +10,8 @@ import android.view.View;
 import android.widget.ProgressBar;
 import android.widget.Toast;
 
-import com.app.android.june.easyorder4u.adapters.shopAdapter;
-import com.app.android.june.easyorder4u.helpers.Shop;
+import com.app.android.june.linhrestaurant.adapters.shopAdapter;
+import com.app.android.june.linhrestaurant.helpers.Shop;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.FirebaseAuth;

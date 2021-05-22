@@ -1,5 +1,5 @@
-# EasyOrder4U
-easyOrder4U Android app allows customers to order for sale items, food items, drinks &amp; beverages online from shops, business owners and restaurants near &amp; around them.
+# linhrestaurant
+linhrestaurant Android app allows customers to order for sale items, food items, drinks &amp; beverages online from shops, business owners and restaurants near &amp; around them.
 
 # Features
 1. Geolocation

@@ -1,4 +1,4 @@
-package com.app.android.june.easyorder4u;
+package com.app.android.june.linhrestaurant;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
@@ -28,12 +28,12 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Toast;
 
-import com.app.android.june.easyorder4u.adapters.TabsAdapter;
-import com.app.android.june.easyorder4u.fragments.CartFragment;
-import com.app.android.june.easyorder4u.fragments.FavouriteFragment;
-import com.app.android.june.easyorder4u.fragments.HomeFragment;
-import com.app.android.june.easyorder4u.fragments.ProfileFragment;
-import com.app.android.june.easyorder4u.fragments.SearchFragment;
+import com.app.android.june.linhrestaurant.adapters.TabsAdapter;
+import com.app.android.june.linhrestaurant.fragments.CartFragment;
+import com.app.android.june.linhrestaurant.fragments.FavouriteFragment;
+import com.app.android.june.linhrestaurant.fragments.HomeFragment;
+import com.app.android.june.linhrestaurant.fragments.ProfileFragment;
+import com.app.android.june.linhrestaurant.fragments.SearchFragment;
 import com.google.android.gms.common.api.ApiException;
 import com.google.android.gms.common.api.ResolvableApiException;
 import com.google.android.gms.location.FusedLocationProviderClient;

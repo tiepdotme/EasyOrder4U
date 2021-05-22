@@ -1,4 +1,4 @@
-package com.app.android.june.easyorder4u;
+package com.app.android.june.linhrestaurant;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -30,7 +30,7 @@ public class MenuActivity extends AppCompatActivity {
 
     public void updates(View view) {
         Intent intent = new Intent(Intent.ACTION_VIEW);
-        intent.setData(Uri.parse("market://details?id=com.app.android.june.easyorder4u"));
+        intent.setData(Uri.parse("market://details?id=com.app.android.june.linhrestaurant"));
         startActivity(intent);
     }
 
@@ -38,12 +38,12 @@ public class MenuActivity extends AppCompatActivity {
         Intent shareIntent = new Intent(Intent.ACTION_SEND);
         shareIntent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
         shareIntent.setType("text/plain");
-        shareIntent.putExtra(Intent.EXTRA_TEXT, "https://play.google.com/store/apps/details?id=com.app.android.june.easyorder4u");
+        shareIntent.putExtra(Intent.EXTRA_TEXT, "https://play.google.com/store/apps/details?id=com.app.android.june.linhrestaurant");
         startActivity(shareIntent);
     }
 
     public void like(View view) {
-        String facebookPageID = "easyorder4u/";
+        String facebookPageID = "PXIntelligence/";
         // URL
         String facebookUrl = "https://www.facebook.com/" + facebookPageID;
         startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(facebookUrl)));
@@ -51,18 +51,18 @@ public class MenuActivity extends AppCompatActivity {
 
     public void rate(View view) {
         Intent intent = new Intent(Intent.ACTION_VIEW);
-        intent.setData(Uri.parse("market://details?id=com.app.android.june.easyorder4u"));
+        intent.setData(Uri.parse("market://details?id=com.app.android.june.linhrestaurant"));
         startActivity(intent);
     }
 
     public void privacy(View view) {
-        String url = "https://easyorder4u.com/privacypolicy.html";
+        String url = "https://intelligence.im/privacypolicy.html";
         Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(url));
         startActivity(intent);
     }
 
     public void terms(View view) {
-        String url = "https://easyorder4u.com/termsofservice.html";
+        String url = "https://intelligence.im/termsofservice.html";
         Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(url));
         startActivity(intent);
     }

@@ -1,4 +1,4 @@
-package com.app.android.june.easyorder4u;
+package com.app.android.june.linhrestaurant;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
@@ -32,7 +32,7 @@ public class AboutActivity extends AppCompatActivity {
         swipeRefreshLayout.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
             @Override
             public void onRefresh() {
-                webview.loadUrl("https://easyorder4u.com");
+                webview.loadUrl("https://intelligence.im");
 
             }
         });
@@ -48,7 +48,7 @@ public class AboutActivity extends AppCompatActivity {
 
 
         webview.setWebViewClient(new WebViewClient());
-        webview.loadUrl("https://easyorder4u.com");
+        webview.loadUrl("https://intelligence.im");
     }
 
     public class WebViewClient extends

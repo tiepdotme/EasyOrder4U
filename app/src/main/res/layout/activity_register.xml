@@ -181,7 +181,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textColor="@color/textColor"
-                    android:text="By tapping Register, you accept easyOrder  "
+                    android:text="Khi bấm đăng ký, bạn đã chấp nhận  "
                     android:textStyle="normal"/>
                 <LinearLayout
                     android:orientation="horizontal"

@@ -1,4 +1,4 @@
-package com.app.android.june.easyorder4u.adapters;
+package com.app.android.june.linhrestaurant.adapters;
 
 import android.content.Context;
 import android.content.Intent;
@@ -9,9 +9,9 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.app.android.june.easyorder4u.R;
-import com.app.android.june.easyorder4u.ViewProfileActivity;
-import com.app.android.june.easyorder4u.helpers.comments;
+import com.app.android.june.linhrestaurant.R;
+import com.app.android.june.linhrestaurant.ViewProfileActivity;
+import com.app.android.june.linhrestaurant.helpers.comments;
 import com.squareup.picasso.Picasso;
 
 import java.util.List;

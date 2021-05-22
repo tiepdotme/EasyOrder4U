@@ -26,7 +26,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:maxLines="1"
-                android:text="Be An easyOrder Delivery Agent" />
+                android:text="Trở thành đối tác giao hàng" />
             <ImageView
                 android:id="@+id/cancel"
                 android:layout_alignParentStart="true"

@@ -1,4 +1,4 @@
-package com.app.android.june.easyorder4u.fragments;
+package com.app.android.june.linhrestaurant.fragments;
 
 
 import android.os.Bundle;
@@ -14,9 +14,9 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Toast;
 
-import com.app.android.june.easyorder4u.R;
-import com.app.android.june.easyorder4u.adapters.favouriteAdapter;
-import com.app.android.june.easyorder4u.helpers.Food;
+import com.app.android.june.linhrestaurant.R;
+import com.app.android.june.linhrestaurant.adapters.favouriteAdapter;
+import com.app.android.june.linhrestaurant.helpers.Food;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.FirebaseAuth;
